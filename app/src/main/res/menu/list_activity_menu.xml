@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar_edit_menu">
+    <item
+        android:id="@+id/toolbarlist_rename_button"
+        android:title="@string/renommer"
+        android:icon="@drawable/ic_edit_black_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/toolbarlist_delete_button"
+        android:title="@string/supprimer"
+        android:icon="@drawable/ic_delete_forever_black_24dp"
+        android:orderInCategory="200"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/toolbarlist_delete_elment_button"
+        android:title="@string/supprimer"
+        android:icon="@drawable/ic_delete_black_24dp"
+        android:orderInCategory="250"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/list_voir_tuto"
+        android:title="@string/voir_tuto"
+        android:orderInCategory="300" />
+</menu>

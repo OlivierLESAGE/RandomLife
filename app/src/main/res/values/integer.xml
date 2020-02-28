@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="splash_time">2000</integer>
+
+    <integer name="tutorial_start_nb_slide">5</integer>
+    <integer name="tutorial_element_nb_slide">6</integer>
+
+    <array name="tutorial_start_image_array">
+        <item>@drawable/tuto_0</item>
+        <item>@drawable/tuto_1</item>
+        <item>@drawable/tuto_2</item>
+        <item>@drawable/tuto_3</item>
+        <item>@drawable/tuto_4</item>
+    </array>
+
+    <array name="tutorial_element_image_array">
+        <item>@drawable/tutoele_0</item>
+        <item>@drawable/tutoele_1</item>
+        <item>@drawable/tutoele_2</item>
+        <item>@drawable/tutoele_2bis</item>
+        <item>@drawable/tutoele_3</item>
+        <item>@drawable/tutoele_3</item>
+    </array>
+</resources>

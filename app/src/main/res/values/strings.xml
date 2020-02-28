@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">RandomLife</string>
+    <string name="save_file_path">RandomLifeSave.json</string>
+
+    <string name="element_edit_coefficient">Coefficient :</string>
+    <string name="element_edit_coefficient_default_value">1</string>
+
+    <string name="element_edit_add_title">Ajouter un élément</string>
+    <string name="element_edit_modify_title">Modifier un élément</string>
+    <string name="element_edit_name_hint">Nom de l\'élément</string>
+
+    <string name="list_edit_add_title">Ajouter une liste</string>
+    <string name="list_edit_modify_title">Renommer la liste</string>
+    <string name="list_edit_name_hint">Nom de la liste</string>
+
+
+    <string name="modifier">Modifier</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="annuler">Annuler</string>
+    <string name="renommer">Renommer</string>
+    <string name="passer">Passer</string>
+    <string name="suivant">Suivant</string>
+    <string name="commencer">Commencer</string>
+
+    <string name="confirmation_text">Etes vous sûr de vouloir supprimer</string>
+    <plurals name="confirmation_text">
+        <item quantity="one">Etes vous sûr de vouloir supprimer %2$s ?</item>
+        <item quantity="other">(%1$d) Etes vous sûr de vouloir supprimer %2$s ?</item>
+    </plurals>
+
+    <plurals name="confirmation_suppression">
+        <item quantity="one">Suppression de 1 élément</item>
+        <item quantity="other"> Suppression de %1$d éléments</item>
+    </plurals>
+
+    <string name="confirmation_liste_title">Etes vous sûr de vouloir supprimer cette liste ?</string>
+    <string name="confirmation_liste_message">Cette action est irréversible.</string>
+
+    <string name="voir_tuto">Voir le tutoriel</string>
+
+    <string-array name="tutorial_start_title_array">
+        <item>Bienvenue</item>
+        <item>Bienvenue</item>
+        <item>Ajouter une liste</item>
+        <item>Modifier une liste</item>
+        <item>Faire un tirage</item>
+    </string-array>
+
+    <string-array name="tutorial_start_text_array">
+        <item>RandomLife est une appliaction qui a pour but de vous faciliter la vie.</item>
+        <item>Vous avez un choix a faire ? laisser RandomLife le faire pour vous.</item>
+        <item>Pour ajouter une liste d\'éléments, cliquez sur le bouton ajouter.</item>
+        <item>Pour éditer une liste éxistante, restez appuyé sur la liste à modifier.</item>
+        <item>Pour éxécuter un tirage, cliquez sur la liste.</item>
+    </string-array>
+
+    <string-array name="tutorial_element_title_array">
+        <item>Ajouter une élèment</item>
+        <item>Modifier un élement</item>
+        <item>Supprimer des élèments</item>
+        <item>Supprimer des élèments</item>
+        <item>Renommer la liste</item>
+        <item>Supprimer la liste</item>
+    </string-array>
+
+    <string-array name="tutorial_element_text_array">
+        <item>Pour ajouter un élèment, cliquer sur le bouton ajouter en bas a droite.</item>
+        <item>Pour modifier un élèment, cliquer sur l\'élèment à modifier.</item>
+        <item>Pour supprimer des élèments, maintenez cliqué sur un des élèments.</item>
+        <item>Ensuite selectionnez tous les élèments a supprimer puis cliquez sur la corbeille en haut à droite.</item>
+        <item>Pour rennomer la liste, cliquer sur le crayon.</item>
+        <item>Pour supprimer la liste, cliquez sur la corbeille.</item>
+    </string-array>
+
+    <string name="coefficient_list_view">x%1$d</string>
+
+    <string name="suppression_element">Suppression d\'éléments</string>
+</resources>

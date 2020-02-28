@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#808080</color>
+
+    <color name="textWhite">#FFFFFF</color>
+    <color name="text">#000000</color>
+    <color name="textSecondary">#888888</color>
+
+    <color name="popup_background">#FAFAFA</color>
+
+    <color name="dot">#FFFFFF</color>
+    <color name="dot_alpha">#55FFFFFF</color>
+
+    <color name="selected_item">#E0EEFF</color>
+</resources>
